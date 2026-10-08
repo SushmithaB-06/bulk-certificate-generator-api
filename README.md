@@ -43,18 +43,12 @@ certificate-generator
 ├── pom.xml
 └── README.md
 
-## 🧪 API Testing with Postman
+```markdown
+### Postman Test Result
 
-The API was tested successfully using Postman.
+The API was successfully tested using Postman.
 
-### Request
+![Postman API Test](https://github.com/user-attachments/assets/fb19e527-40cb-4699-b702-e6f1cccf5bc8)
 
-**Method:** `POST`
-
-**Endpoint:**
-
-```text
-http://localhost:8080/api/certificates/generate
-
-<img width="959" height="560" alt="Screenshot 2026-10-08 084330" src="https://github.com/user-attachments/assets/2bbafa48-156e-4db0-a35b-5b64d373ccf1" />
+<img width="959" height="560" alt="image" src="https://github.com/user-attachments/assets/0ad98779-9920-40d2-a06d-d3f73eae05cc" />
 
