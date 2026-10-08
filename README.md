@@ -56,4 +56,5 @@ The API was tested successfully using Postman.
 ```text
 http://localhost:8080/api/certificates/generate
 
-<img width="959" height="566" alt="image" src="https://github.com/user-attachments/assets/4fbc3cd0-c440-4708-98a2-178b179a376e" />
+<img width="959" height="560" alt="Screenshot 2026-10-08 084330" src="https://github.com/user-attachments/assets/2bbafa48-156e-4db0-a35b-5b64d373ccf1" />
+
